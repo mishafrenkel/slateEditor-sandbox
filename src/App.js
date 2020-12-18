@@ -1,5 +1,4 @@
 import React, { useMemo, useState } from "react";
-import ReactDOM from "react-dom";
 import { createEditor } from "slate";
 import { withHistory } from "slate-history";
 import { Slate, withReact } from "slate-react";
